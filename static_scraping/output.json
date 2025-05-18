@@ -1,0 +1,50 @@
+{
+    "property_name": "117, Heath Street, London, Greater London NW3 6SS",
+    "date_sold": "14 Jan 2025",
+    "price": "£900,000",
+    "property_type": "Terraced",
+    "tenure": "Freehold",
+    "key_features": [
+        "1 Bathroom",
+        "2 Bedrooms",
+        "2 Receptions",
+        "House",
+        "Terraced",
+        "Patio Garden",
+        "Freehold"
+    ],
+    "images": [
+        {
+            "url": "https://media.rightmove.co.uk/88k/87916/152030015/87916_HAM240273_IMG_00_0000.jpeg"
+        },
+        {
+            "url": "https://media.rightmove.co.uk/88k/87916/152030015/87916_HAM240273_IMG_01_0000.jpeg"
+        },
+        {
+            "url": "https://media.rightmove.co.uk/88k/87916/152030015/87916_HAM240273_IMG_02_0000.jpeg"
+        },
+        {
+            "url": "https://media.rightmove.co.uk/88k/87916/152030015/87916_HAM240273_IMG_03_0000.jpeg"
+        },
+        {
+            "url": "https://media.rightmove.co.uk/88k/87916/152030015/87916_HAM240273_IMG_04_0000.jpeg"
+        },
+        {
+            "url": "https://media.rightmove.co.uk/88k/87916/152030015/87916_HAM240273_IMG_05_0000.jpeg"
+        },
+        {
+            "url": "https://media.rightmove.co.uk/88k/87916/152030015/87916_HAM240273_IMG_06_0000.jpeg"
+        },
+        {
+            "url": "https://media.rightmove.co.uk/88k/87916/152030015/87916_HAM240273_IMG_07_0000.jpeg"
+        },
+        {
+            "url": "https://media.rightmove.co.uk/88k/87916/152030015/87916_HAM240273_IMG_08_0000.jpeg"
+        }
+    ],
+    "floot_plan": "https://media.rightmove.co.uk/88k/87916/152030015/87916_HAM240273_FLP_00_0000.jpeg",
+    "location": {
+        "latitude": 51.55919,
+        "longitude": -0.1786
+    }
+}
