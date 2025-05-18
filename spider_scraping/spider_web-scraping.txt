@@ -1,0 +1,7 @@
+steps:
+1. need libery scrapy and json
+2. in ternimal run "scrapy startproject propertydetail"
+3. "cd propertydetail"
+4. "scrapy genspider pricespider www.rightmove.co.uk"
+5. in pricespider file replace the current code
+6. "scrapy crawl pricespider -o output.json"--- we got output at output.json 
